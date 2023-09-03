@@ -1,0 +1,15 @@
+{
+  "name": "whatpad",
+  "version": "1.0.0",
+  "description": "what",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gthub.com/Cookey-dev/whatpad.git"
+  },
+  "author": "Rowan",
+  "license": "GPL-3.0-or-later"
+}
